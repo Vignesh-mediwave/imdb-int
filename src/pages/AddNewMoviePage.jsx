@@ -1,7 +1,7 @@
 import Page from "../components/page";
 const AddNewmoviePage = () => {
   return (
-    <Page>
+    <Page title="Add new movie">
       <h1>Add new Movie</h1>
     </Page>
   );
